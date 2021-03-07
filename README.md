@@ -1,12 +1,12 @@
-# my_portfolio_site
-Brian's data science project portfolio
+# Data Science Portfolio
+This is a collection of projects I've completed over the years highlighting skills across the data science spectrum including data wrangling, hypothesis testing, database management, visualization, machine learning and deep learning. 
 
 
 ## [Harris SAVES Covid-19 Research Project](https://harrissaves.org/)
 * Research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
 * Through this research project, we provide FREE TESTING FOR EVERYONE (including children) in Harris County, even if you are not sick, and regardless of gender, race, income or immigration status.
 * My responsibilities include data architecture, collection, cleaning, analytics, and visualization.
-* Public dashboard here: https://sph.uth.edu/projects/harris-saves/dashboard 
+* [Public dashboard linked here](https://sph.uth.edu/projects/harris-saves/dashboard)
 
 ![harris dashboard](/images/Dashboard-main.png)
 
