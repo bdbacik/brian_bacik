@@ -1,8 +1,15 @@
 title: Brian Bacik
 logo: "/images/profile.png"
 description: >
-  Data scientist at UTHealth trying to do some good in the world
+  Data scientist at UTHealth trying to do some good in the world.
   <br>
-  <a href="https://www.linkedin.com/in/brian-bacik/">LinkedIn</a>
+  <br>
+  Currently working on Covid-19 research as well as novel deep learning techniques for time series data.
+  <br>
+  <br>
+  Previously spent 8 years as professional data scientist at top global CPG company.
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/brian-bacik/">LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
