@@ -4,12 +4,11 @@ This is a collection of projects I've completed over the years highlighting skil
 
 ## [Harris SAVES Covid-19 Research Project](https://harrissaves.org/)
 * Research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
-* Through this research project, we provide FREE TESTING FOR EVERYONE (including children) in Harris County, even if you are not sick, and regardless of gender, race, income or immigration status.
+* Through this research project, we provide free testing for everyone in Harris County and collect data to better understand the spread of Covid-19 in this geography.
 * My responsibilities include data architecture, collection, cleaning, analytics, and visualization.
 * [Public dashboard linked here](https://sph.uth.edu/projects/harris-saves/dashboard)
 
 ![harris dashboard](/images/Dashboard-main.png)
-
 
 
 ## [Using Machine Learning to Predict Customer Churn](https://github.com/bdbacik/Predicting-Customer-Churn)
@@ -21,5 +20,10 @@ This is a collection of projects I've completed over the years highlighting skil
 
 ![correlation heatmap](/images/corr_heatmap.png)
 
-## Pubmed Crawler for Covid-19 Research Publications
+## [Pubmed Crawler for Covid-19 Research Publications](https://github.com/bdbacik/Pubmed-Crawler)
+* Pubmed crawler module that collects publication details from PubMed for a given keyword (i.e., COVID-19 Vaccine) and time period.
+* Database module that creates a SQLite database, populates tables, and queries tables for data needed for visualization.
+* Visualization module that produces a dashboard summarizing key statistics related to COVID-19 vaccine publications.
+* Automation module to automatically run script and update visualization weekly using AWS and cron.
+
 ![pubmed dashboard](https://pubmedcrawler.s3.us-east-2.amazonaws.com/pubmed_dashboard2.png)
