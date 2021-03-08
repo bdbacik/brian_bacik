@@ -20,3 +20,6 @@ This is a collection of projects I've completed over the years highlighting skil
 * Presented recommendation for final model and summarized learnings for similar problems.
 
 ![correlation heatmap](/images/corr_heatmap.png)
+
+## Pubmed Crawler for Covid-19 Research Publications
+![pubmed dashboard](https://pubmedcrawler.s3.us-east-2.amazonaws.com/pubmed_dashboard2.png)
