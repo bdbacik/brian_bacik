@@ -3,7 +3,7 @@ This is a collection of projects I've completed over the years highlighting skil
 
 
 ## [Harris SAVES Covid-19 Research Project](https://harrissaves.org/)
-* Research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
+* Active research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
 * Through this research project, we provide free testing for everyone in Harris County and collect data to better understand the spread of Covid-19 in this geography.
 * My responsibilities include data architecture, collection, cleaning, analytics, and visualization.
 * [Public dashboard linked here](https://sph.uth.edu/projects/harris-saves/dashboard)
@@ -27,3 +27,10 @@ This is a collection of projects I've completed over the years highlighting skil
 * Automation module to automatically run script and update visualization weekly using AWS and cron.
 
 ![pubmed dashboard](https://pubmedcrawler.s3.us-east-2.amazonaws.com/pubmed_dashboard2.png)
+
+## [Product Recommendation Engine](https://github.com/bdbacik/product_recommender)
+* Applied matrix factorization algorithm to generate recommended items for users returning to an e-commerce website.
+* Created Flask webservice to train model and predict new items for a given user through API requests.
+* Containerized app with Docker so it can be run from any machine/environment.
+
+![data_architecture](/images/app_architecture.png)
