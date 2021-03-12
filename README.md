@@ -34,3 +34,11 @@ This is a collection of projects I've completed over the years highlighting skil
 * Containerized app with Docker so it can be run from any machine/environment.
 
 ![data_architecture](/images/app_architecture.png)
+
+## [Hypothesis Test: Housing Prices in Economic Recession](https://github.com/bdbacik/Housing_Price_Analysis)
+* Evaluated the hypothesis that university towns have their mean housing prices less affected by economic recessions.
+* Collected data on housing prices from Zillow, college towns from Wikipedia, and GDP from Bureau of Economic Analysis, US Department of Commerce
+* Conducted t-test to evaluate hypothesis
+* Found that housing prices in college towns are less affected during recessions compared to non college towns. Also, found no significant relationship between college town status and housing price changes in the period leading up to the recession or the recovery after the recession.
+
+![housing prices](/images/home_prices_scatterplot.png)
