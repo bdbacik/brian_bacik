@@ -3,10 +3,10 @@ This is a collection of projects I've completed over the years highlighting skil
 
 
 ## [Harris SAVES Covid-19 Research Project](https://harrissaves.org/)
-* Active research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
+* Research project led by UTHealth School of Public Health in partnership with Baylor College of Medicine and Harris County Public Health.
 * Through this research project, we provide free testing for everyone in Harris County and collect data to better understand the spread of Covid-19 in this geography.
 * My responsibilities include data architecture, collection, cleaning, analytics, and visualization.
-* [Public dashboard linked here](https://sph.uth.edu/projects/harris-saves/dashboard)
+* [Public dashboard linked here](https://sph.uth.edu/dept/bads/covid19-dashboard)
 
 ![harris dashboard](/images/Dashboard-main.png)
 
